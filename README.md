@@ -4,9 +4,22 @@
 
 [![PyPI version](https://badge.fury.io/py/rail-score.svg)](https://badge.fury.io/py/rail-score)
 [![Python Versions](https://img.shields.io/pypi/pyversions/rail-score.svg)](https://pypi.org/project/rail-score/)
-[![PyPI Downloads](https://static.pepy.tech/personalized-badge/rail-score-sdk?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/rail-score-sdk)
+[![Downloads](https://pepy.tech/badge/rail-score-sdk)](https://pepy.tech/project/rail-score)
+[![Downloads per Month](https://pepy.tech/badge/rail-score-sdk/month)](https://pepy.tech/project/rail-score)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[![GitHub Stars](https://img.shields.io/github/stars/Responsible-AI-Labs/rail-score?style=social)](https://github.com/Responsible-AI-Labs/rail-score/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Responsible-AI-Labs/rail-score?style=social)](https://github.com/Responsible-AI-Labs/rail-score/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/Responsible-AI-Labs/rail-score)](https://github.com/Responsible-AI-Labs/rail-score/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Responsible-AI-Labs/rail-score)](https://github.com/Responsible-AI-Labs/rail-score/pulls)
+
+[![Build Status](https://github.com/Responsible-AI-Labs/rail-score/workflows/Build/badge.svg)](https://github.com/Responsible-AI-Labs/rail-score/actions)
+[![Documentation Status](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://responsibleailabs.ai/docs)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Typing: mypy](https://img.shields.io/badge/typing-mypy-blue.svg)](https://github.com/python/mypy)
+
+[![Responsible AI](https://img.shields.io/badge/Responsible-AI-blueviolet.svg)](https://responsibleailabs.ai)
+[![Research Paper](https://img.shields.io/badge/arXiv-2505.00204-b31b1b.svg)](https://arxiv.org/abs/2505.00204)
 
 **Evaluate and generate responsible AI content with the official Python client for [RAIL Score API](https://responsibleailabs.ai)**
 

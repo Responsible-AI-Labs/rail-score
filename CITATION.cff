@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "RAIL Score Python SDK"
+abstract: "Official Python SDK for RAIL Score API - Evaluate and generate responsible AI content across 8 dimensions: Safety, Privacy, Fairness, Transparency, Accountability, Reliability, Legal Compliance, and User Impact."
+authors:
+  - family-names: "Responsible AI Labs"
+    email: research@responsibleailabs.ai
+    website: https://responsibleailabs.ai
+repository-code: "https://github.com/Responsible-AI-Labs/rail-score"
+url: "https://responsibleailabs.ai"
+license: MIT
+version: 1.0.1
+date-released: 2025-11-04
+keywords:
+  - responsible-ai
+  - rail-score
+  - ai-evaluation
+  - ai-safety
+  - ai-ethics
+  - compliance
+  - gdpr
+  - hipaa
+  - ccpa
+  - eu-ai-act
+  - content-moderation
+  - rag-evaluation
+  - hallucination-detection
+  - fairness
+  - transparency
+  - accountability
+  - privacy
+references:
+  - type: article
+    authors:
+      - family-names: "Verma"
+        given-names: "Sumit"
+    title: "RAIL in the Wild: Operationalizing Responsible AI Evaluation Using Anthropic's Value Dataset"
+    year: 2025
+    url: "https://arxiv.org/abs/2505.00204"
+    journal: "arXiv preprint"
+    notes: "Foundation research paper for RAIL framework"
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Responsible AI Labs"
+      email: support@responsibleailabs.ai
+  title: "RAIL Score Python SDK"
+  version: 1.0.1
+  year: 2025
+  url: "https://github.com/Responsible-AI-Labs/rail-score"
