@@ -1,4 +1,6 @@
-# RAIL Score Python SDK
+
+<h1 align="center"><b>RAIL Score Python SDK</b></h1>
+
 
 <div align="center">
 
